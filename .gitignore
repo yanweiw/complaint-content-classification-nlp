@@ -133,4 +133,4 @@ project_data/500maa.csv
 project_data/complaints_1.csv
 
 #Extra notebooks
-extra_notebooks/*
+*notebooks/complaints-2024-09-20_17_37.csv
